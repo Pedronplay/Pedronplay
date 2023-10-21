@@ -10,8 +10,12 @@ I'm passionate about learning and challenges, and I approach every task with ded
 
 ### About Me
 
+- 👋 Hi, I'm Pedro Alves, also known as `Pedronplay`. I'm a passionate learner with a deep enthusiasm for tackling challenges.
 - 🌍 Based in Lousada, Portugal
 - 💼 Skills: English, Python, Linux, C
+- 🍳 In my free time, I enjoy cooking, and I'm an avid traveler and sports enthusiast.
+- 🚀 I'm a student at 42 Porto, progressing into the Common Core after completing the Piscine.
+
 
 ### Education
 
