@@ -23,10 +23,10 @@ I'm passionate about learning and challenges, and I approach every task with ded
 - 42 Porto: Student at 42 Porto, Python Programming - Intermediate Level, SQL
 
 ### Contact
-
-- [GitHub](https://github.com/Pedronplay)
-- [LinkedIn](https://www.linkedin.com/in/pedro-alves-5287a3a4/)
-
+<a href='https://www.linkedin.com/in/pedro-alves-5287a3a4/' target="_blank">
+    <img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-100000?style=flat&logo=Linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2'/></a>
+  </a>
+  
 <!---
 Pedronplay/Pedronplay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
