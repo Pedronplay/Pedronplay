@@ -17,7 +17,9 @@
 
 ## 42 Progress
 <p align="left">
+      <a href="https://github.com/Pedronplay/commoncore42">
     <img src="https://github.com/Pedronplay/Pedronplay/blob/cdbf024955cffbf6ea411b672ad714062563b2fc/profile/CoomonCoreBanner.png" width="300"/>
+          
 </p>
 <p align="left">
   <a href="https://github.com/Pedronplay/commoncore42">
@@ -29,8 +31,8 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,python,git,github,arduino,postgres,mysql,linux,bash,neovim,ubuntu" />
-  </a>
-</p>
+    </a>
+  </p>
 
 ## Contact
 <a href='https://www.linkedin.com/in/pedro-alves-5287a3a4/' target="_blank">
