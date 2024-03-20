@@ -1,4 +1,4 @@
-# Hi there, I'm Pedro Alves! 👋
+# Hello there, I'm Pedro Alves! 👋
 
 ## About Me
 
