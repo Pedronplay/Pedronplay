@@ -5,6 +5,7 @@
 - 🌍 Based in Lousada, Portugal
 - 💼 Skills: English, Python, Linux, C
 - 🍳 In my free time, I enjoy cooking, and I'm an avid traveler and sports enthusiast.
+- 🎓 Currently pursuing Técnico/a Especialista em Tecnologias e Programação de Sistemas de Informação (CET.TPS.I.D.P.25)
 - 🚀 I'm a student at 42 Porto, progressing into the Common Core after completing the Piscine.
 
 ## GitHub Stats
