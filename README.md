@@ -10,11 +10,11 @@ Software developer focused on **C/C++, Linux and systems programming**.
 - 🍳 In my free time I enjoy cooking, travelling and sports
 
 ## Projects
-- **[ft_transcendence](https://github.com/RnSiilva/ft_transcendence)** — 42 Common Core final project (team). Real-time multiplayer draw-and-guess web game. As Product Owner, I built the scoring system and the room settings (theme, language, round length), moved the vote-to-kick from the browser to the server, and connected the real leaderboard and match history. Stack: Node.js, Socket.IO, React, TypeScript, MariaDB, Docker, Nginx.
-- **[ft_irc](https://github.com/psergioprt/ft_irc)** - IRC server in C++98, with non-blocking I/O handled by a single `poll()` loop.
-- **[Minishell](https://github.com/DiogoFSPinheiro/MiniShell)** - Bash-like shell in C: pipes, redirections, environment variables and signals.
+- **[ft_transcendence](https://github.com/RnSiilva/ft_transcendence)** - 42 Common Core final project (team). Real-time multiplayer draw-and-guess web game. As Product Owner, I built the scoring system and the room settings (theme, language, round length), moved the vote-to-kick from the browser to the server, and connected the real leaderboard and match history. Stack: Node.js, Socket.IO, React, TypeScript, MariaDB, Docker, Nginx.
+- **[ft_irc](https://github.com/psergioprt/ft_irc)** - IRC server in C++98 (team), with non-blocking I/O handled by a single `poll()` loop.
+- **[Minishell](https://github.com/DiogoFSPinheiro/MiniShell)** - Bash-like shell in C (team): pipes, redirections, environment variables and signals.
 - **[cub3D](https://github.com/Sma0sh/cub3d)** - Raycasting engine in C with MiniLibX (team project), in the style of Wolfenstein 3D.
-- **Earlier 42 projects** — [libft, ft_printf, get_next_line](https://github.com/Pedronplay/42_rank_01) · Born2beRoot · [minitalk, push_swap, FdF](https://github.com/Pedronplay/RANK-02)
+- **Earlier 42 projects** - [libft, ft_printf, get_next_line](https://github.com/Pedronplay/42_rank_01) · Born2beRoot · [minitalk, push_swap, FdF](https://github.com/Pedronplay/RANK-02)
 
 
 ## Skills
